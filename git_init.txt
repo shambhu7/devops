@@ -1,0 +1,4 @@
+git init
+git remote add devops https://github.com/shambhu7/devops.git
+git push --set-upstream devops master
+
