@@ -1,3 +1,2 @@
-test
-linix
-unix
+#!/bin/bash
+#first line of shell script
