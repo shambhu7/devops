@@ -1,2 +1,1 @@
-#!/bin/bash
-#first line of shell script
+ohup is a POSIX command which means "no hang up". Its purpose is to execute a command such that it ignores the HUP signal and therefore does not stop when the user logs out. Output that would normally go to the terminal goes to a file called n
